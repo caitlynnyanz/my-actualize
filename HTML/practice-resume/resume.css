@@ -1,0 +1,12 @@
+body {
+  padding: 30px;
+  font-size: 18px;
+  color: SteelBlue;
+  font-family: Candara, Calibri, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+body {
+  border: 10px;
+  border-width: 10px;
+  border-color: steelblue;
+}
